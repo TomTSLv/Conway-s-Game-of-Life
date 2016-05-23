@@ -1,0 +1,10 @@
+Press p to pause and resume
+Press + and - to acclerate and decelerate
+Press r to set all cells off
+Press 0 to randomly reset
+Press f to enable and disable full screen
+Press s to save a moment
+Press l to load the moment that you saved (only when it is paused)
+Press z to make cells bigger
+Press x to make cells smaller
+Use mouse to toggle on and off cells(only when it is paused)
